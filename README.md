@@ -6,7 +6,7 @@ Soy estudiante de analisis y desarrollo de software apasionado por el frontend.
 
 - 🔭 Actualmente trabajo en: **SENA**
 - ✨ Estoy aprendiendo: **Analisis y desarrollo de software**
-- 📫 Cómo contactarme: **gallohannergmail.com**
+- 📫 Cómo contactarme: **gallohanner@gmail.com**
 
 ## 🛠️ Tecnologías y Herramientas
 
