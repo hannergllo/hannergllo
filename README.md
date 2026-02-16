@@ -58,7 +58,7 @@ Sitio web para restaurante con diseño innovador y funcionalidad completa. Utili
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Contador de visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=hannergllo&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Contador de visitas"/>
 </div>
 
 <div align="center">
