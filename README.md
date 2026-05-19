@@ -1,66 +1,137 @@
-# ¡Hola! Soy Hanner Gallo 😎
+<h1 align="center">👋 ¡Hola! Soy Hanner Gallo</h1>
 
-## 🚀 Sobre mí
-
-Soy estudiante de analisis y desarrollo de software apasionado por el frontend.
-
-- 🔭 Actualmente trabajo en: **SENA**
-- ✨ Estoy aprendiendo: **Analisis y desarrollo de software**
-- 📫 Cómo contactarme: **gallohanner@gmail.com**
-
-## 🛠️ Tecnologías y Herramientas
-
-### Lenguajes de Programación
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-### Herramientas y Plataformas
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## 🔥 Racha de Contribuciones
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hannergllo&theme=dracula" alt="GitHub Streak"/>
-</div>
-
-## 🏆 Proyectos Destacados
-
-### Sabor Colombiano (link-al-repo)
-Sitio web para restaurante con diseño innovador y funcionalidad completa. Utilicé HTML y CSS para crear una experiencia atractiva y fácil de usar, optimizada para SEO y dispositivos móviles.
-- ⚡ Herramientas: HTML y CSS
-
-## 🌐 Conéctate Conmigo
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hxnnxrgx)
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@hxnnxrgx)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanner-gallo-5b4235353/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/hanner.gallo)
-
-## 💼 Experiencia
-
-- **Analisis y desarrollo de software** en CURSO | [29/04/2025 - 27/06/2027]
-  - Asistir y participar activamente en la formación
-  - Desarrollar competencias técnicas del programa
-  - Cumplir con la etapa productiva (práctica empresarial)
-  - Mantener comportamiento ético y profesional
-
-## 🎓 Educación
-
-- **Tecnico en INTEGRACION DE OPERACIONES LOGISTICAS** - [SENA] | [2024]
-## 📈 Actividad Reciente
+<p align="center">
+💻 Analista y Desarrollador de Software <br>
+🐧 Apasionado por Linux, servidores y desarrollo backend <br>
+🚀 Construyendo soluciones modernas y escalables
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hannergllo&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Contador de visitas"/>
-</div>
+## 🚀 Sobre mí
 
-<div align="center">
-  💙 ¡Gracias por visitar mi perfil! No dudes en contactarme 💙
-</div>
+- 🎓 Estudiante de **Análisis y Desarrollo de Software**
+- 🐘 Desarrollo backend con **PHP y PostgreSQL**
+- 🐧 Administración y configuración de servidores Linux
+- 🔒 Interesado en ciberseguridad y hardening de sistemas
+- ⚙️ Experiencia trabajando con Ubuntu Server, Kali Linux y Arch Linux
+- 🤖 Uso herramientas modernas de IA para desarrollo como Claude Code y OpenCode
+- 📱 Actualmente desarrollando plataformas y sistemas empresariales
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### 👨‍💻 Lenguajes y Desarrollo
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,html,css" />
+</p>
+
+### 🗄️ Bases de Datos
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>
+
+### 🐧 Sistemas Operativos y Servidores
+<p>
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,kali,arch,bash" />
+</p>
+
+### ⚙️ Herramientas y Plataformas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hannergllo&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannergllo&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Racha de Contribuciones
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hannergllo&theme=tokyonight"/>
+</p>
+
+---
+
+## 💼 Experiencia Técnica
+
+### 🖥️ Administración de Servidores Linux
+- Configuración de Ubuntu Server
+- Gestión de permisos y usuarios
+- Hardening básico y seguridad
+- Configuración de Apache y entornos web
+- Manejo de terminal Linux y automatización
+
+### 🔒 Seguridad y Testing
+- Pruebas básicas de seguridad web
+- Uso de Kali Linux
+- Validaciones backend y protección de sistemas
+- Buenas prácticas en desarrollo seguro
+
+### ⚡ Desarrollo Web
+- Desarrollo frontend y backend
+- Arquitectura básica de sistemas ERP
+- Integración con PostgreSQL
+- APIs y lógica empresarial en PHP
+
+---
+
+## 🏆 Proyecto Destacado
+
+### 🍽️ Sabor Colombiano
+
+Sitio web para restaurante con diseño moderno, responsive y optimizado.
+
+⚡ Tecnologías:
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 🎓 Educación
+
+### 📚 Análisis y Desarrollo de Software
+🏫 SENA — En curso (2025 - 2027)
+
+### 📦 Técnico en Integración de Operaciones Logísticas
+🏫 SENA — 2024
+
+---
+
+## 🌐 Conéctate conmigo
+
+<p align="center">
+
+<a href="mailto:gallohanner@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hannergllo">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Visitas al perfil
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hannergllo&label=Visitas&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+<p align="center">
+⚡ “El software no solo debe funcionar, también debe ser seguro, escalable y eficiente.” ⚡
+</p>
